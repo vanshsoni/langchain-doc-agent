@@ -7,3 +7,5 @@ faiss-cpu
 python-multipart
 python-dotenv
 tiktoken
+python-docx
+python-docx2txt
